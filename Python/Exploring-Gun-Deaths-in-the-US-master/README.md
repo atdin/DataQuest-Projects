@@ -6,8 +6,8 @@ Python Programming Intermediate
 ### Main dataset: guns.csv
 The dataset came from FiveThirtyEight. It contains information on gun deaths in the US from 2012 to 2014. Each row in the dataset represents a single fatality. The columns contain demographic and other information about the victim.
 
-year -- the year in which the fatality occurred.
-month -- the month in which the fatality occurred.
+year -- the year in which the fatality occurred.\
+month -- the month in which the fatality occurred.\
 intent -- the intent of the perpetrator of the crime. This can be Suicide, Accidental, NA, Homicide, or Undetermined.
 police -- whether a police officer was involved with the shooting. Either 0 (false) or 1 (true).
 sex -- the gender of the victim. Either M or F.
